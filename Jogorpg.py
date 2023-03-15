@@ -1,3 +1,5 @@
+#jogo rpg
+
 from random import randint
 
 lista = []
